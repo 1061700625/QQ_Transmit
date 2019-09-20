@@ -1,0 +1,9 @@
+[image]
+md5=C1A2B06536882B3B5052153F31D8106E
+width=48
+height=48
+size=2192
+url=https://gchat.qpic.cn/gchatpic_new/3379540591/627688212-2210011000-C1A2B06536882B3B5052153F31D8106E/0?vuin=2580833660&term=2
+addtime=1566377027
+[notice]
+致开发者=由于消息服务器的更新，本文件中的 url 已被弃用，并将在未来被移除，请勿直接读取本文件。请更新至最新版 SDK，并使用 Api（CQ_getImage, 接收图片）读取本图片。
